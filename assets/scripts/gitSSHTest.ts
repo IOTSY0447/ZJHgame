@@ -1,0 +1,1 @@
+cc.log("what i want to do")
